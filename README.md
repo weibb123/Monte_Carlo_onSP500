@@ -11,8 +11,8 @@ In the face of uncertain market conditions and volatile investment landscapes, I
 # Project Overview:
 Facing the limitations of traditional risk assessment methods in a highly volatile market, I spearheaded a project to implement Monte Carlo Simulation for evaluating our investment portfolio. The primary objective was to develop a more accurate and reliable method for predicting potential risks and returns, thereby enabling more informed investment decisions.
 
-# Implementation:
-I conducted an in-depth analysis of historical market data and identified key variables impacting portfolio performance. Using Monte Carlo Simulation, I modeled thousands of possible market scenarios to forecast the distribution of potential outcomes. This approach allowed us to visualize the probability of different returns and assess the associated risks with greater precision.
+# Implementation
+I conducted an in-depth analysis of historical market data by integrating Yahoo Finance to obtain accurate and up-to-date financial information. Using Monte Carlo Simulation, I modeled thousands of possible market scenarios to forecast the distribution of potential outcomes. This approach allowed us to visualize the probability of different returns and assess the associated risks with greater precision.
 
 
 # Impact:
